@@ -1,0 +1,18 @@
+Case 1:
+
+200000033
+500000003
+
+Public Key =  100000017100000099 
+Encoding number 'e' =  3 
+Private Key =  66666677600000043
+
+
+Case 2:
+
+100123456789 
+101111111111
+
+Public Key =  10123593964209986282579 
+Encoding number 'e' =  7 
+Private Key =  2892455418288214775623
